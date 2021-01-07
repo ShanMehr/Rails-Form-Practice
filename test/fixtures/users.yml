@@ -2,6 +2,7 @@
 
 one:
   username: MyString
+<<<<<<< HEAD
   email: MyString
   password: MyString
 
@@ -9,3 +10,12 @@ two:
   username: MyString
   email: MyString
   password: MyString
+=======
+  password: MyString
+  email: MyString
+
+two:
+  username: MyString
+  password: MyString
+  email: MyString
+>>>>>>> 0a3e049c47cb34ee640390f9adb7975fd068089c

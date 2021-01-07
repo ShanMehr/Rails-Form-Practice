@@ -27,6 +27,7 @@
 </form>
 -->
 
+<!-- Alternate form using deprecated form_tag
 
 
 <%= form_tag("/users", method: "post") do %>
@@ -47,7 +48,7 @@
 
      <%= submit_tag("Submit") %>
 <% end %>
+-->
 
-
-
+<%= render partial: 'form' %>
 

@@ -2,15 +2,6 @@
 
 one:
   username: MyString
-<<<<<<< HEAD
-  email: MyString
-  password: MyString
-
-two:
-  username: MyString
-  email: MyString
-  password: MyString
-=======
   password: MyString
   email: MyString
 
@@ -18,4 +9,3 @@ two:
   username: MyString
   password: MyString
   email: MyString
->>>>>>> Make Users
